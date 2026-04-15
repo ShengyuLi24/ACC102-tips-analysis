@@ -25,3 +25,13 @@
 ```bash
 pip install -r requirements.txt
 jupyter notebook analysis.ipynb
+
+## 6. Product Link / Demo Video
+- **GitHub Repo:** https://github.com/ShengyuLi24/ACC102-superstore-analysis.git
+- **Demo Video:** https://youtu.be/你的视频ID
+
+## 7. Limitations & Next Steps
+-The data years are relatively old
+-There is a lack of individual customer information
+-The relationship between discounts and profits is only correlation rather than causation
+- Next: Collect updated data, incorporate customer repurchase rate analysis, and use Streamlit to create interactive dashboards
